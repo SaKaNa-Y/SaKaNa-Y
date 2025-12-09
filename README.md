@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Sakana+GitHub+profile+page!;+Text+Line+Two;&center=false&width=1000&height=50&size=32&font=Righteous"/>
+
 # 💫 Hi, this is Sakana:
 
 - 🔭 I’m a current student
