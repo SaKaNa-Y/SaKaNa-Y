@@ -2,7 +2,6 @@
 
 # 💫 Hi, this is Sakana:
 
-- 🔭 I’m a current student
 - 📚 I’m currently learning Vue、React、Next.js、Node.js
 - 📫 How to reach me: xyj2366@gmail.com
 
