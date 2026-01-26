@@ -3,7 +3,6 @@
 # 💫 Hi, this is Sakana:
 
 - 📚 I’m currently learning Vue、React、Next.js、Node.js
-- 📫 How to reach me: xyj2366@gmail.com
 
 <hr />
 
@@ -55,14 +54,3 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-<hr />
-
-## GitHub stats:
-
-[![sakana's GitHub stats](https://github-readme-stats-mauve-seven-77.vercel.app/api?username=SaKaNa-Y&show_icons=true&theme=transparent)](https://github.com/SaKaNa-Y/github-readme-stats)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaKaNa-Y&theme=radical&hide_border=true"/>
-
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=SaKaNa-Y&limit=5&theme=dark&combine_all_yearly_contributions=true)
