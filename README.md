@@ -2,14 +2,7 @@
 
 # 💫 Hi, this is Sakana:
 
-- 📚 I’m currently learning Vue、React、Next.js、Node.js
-
-<hr />
-
-## 🌐 Socials:
-
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sakana1362208)
-[![Bilibili](https://img.shields.io/badge/Bilibili-pink.svg?logo=Bilibili&logoColor=white)](https://space.bilibili.com/347663370)
+- 📚 I’m currently learning Vue、React、Next.js、Node.js、Nest.js
 
 <hr />
 
