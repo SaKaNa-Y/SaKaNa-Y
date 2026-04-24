@@ -2,7 +2,7 @@
 
 # 💫 Hi, this is Sakana:
 
-- 📚 I’m currently learning Vue、React、Next.js、Node.js、Nest.js
+- 📚 I’m currently learning Vue、React、Next.js、Node.js
 
 <hr />
 
