@@ -12,6 +12,8 @@
 
 - I really enjoy the friendly atmosphere of the open-source community.
 
+- Contact: [bestlerfiorito378@gmail.com](mailto:bestlerfiorito378@gmail.com)
+
 ## 💻 Tech Stack:
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,nextjs,nodejs,bun,git,github,vscode,vite,vitest,prisma,postgresql,supabase,nestjs,cloudflare,vercel&perline=9)
