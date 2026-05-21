@@ -8,6 +8,8 @@
 
 - I like writing code and Liz from IVE.
 
+- I’m working hard to find remote job opportunities.
+
 - I really enjoy the friendly atmosphere of the open-source community.
 
 ## 💻 Tech Stack:
