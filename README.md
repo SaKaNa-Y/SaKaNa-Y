@@ -16,4 +16,4 @@
 
 ## 💻 Tech Stack:
 
-![My Skills](https://skills.syvixor.com/api/icons?i=js,ts,python,vue,react,nextjs,nodejs,bun,git,github,vite,vitest,express,nestjs,prisma,drizzle,postgresql,supabase,cloudflare,vercel,aws&perline=7)
+![My Skills](https://skills.syvixor.com/api/icons?i=js,ts,rust,vue,react,nextjs,nodejs,bun,github,vite,vitest,express,nestjs,prisma,drizzle,postgresql,supabase,cloudflare,vercel,aws,render&perline=7)
