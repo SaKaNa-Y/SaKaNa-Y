@@ -2,7 +2,7 @@
 
 # 💫 Hi, this is Sakana:
 
-- I’m currently learning.
+- I’m a current student
 
 - I’m learning fullstack development.
 
@@ -16,4 +16,4 @@
 
 ## 💻 Tech Stack:
 
-![My Skills](https://skills.syvixor.com/api/icons?i=js,ts,rust,vue,react,nextjs,nodejs,bun,github,vite,vitest,express,nestjs,prisma,drizzle,postgresql,supabase,cloudflare,vercel,aws,render&perline=7)
+![My Skills](https://skills.syvixor.com/api/icons?i=js,ts,rust,vue,react,nextjs,nodejs,bun,vite,vitest,express,nestjs,prisma,drizzle,postgresql,supabase,neon,cloudflare,vercel,aws,render&perline=7)
