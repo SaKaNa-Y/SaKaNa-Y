@@ -2,7 +2,7 @@
 
 # 💫 Hi, this is Sakana:
 
-- I’m a current student
+- I’m a current student.
 
 - I’m learning fullstack development.
 
@@ -11,8 +11,6 @@
 - I’m working hard to find remote job opportunities.
 
 - I really enjoy the friendly atmosphere of the open-source community.
-
-- Contact: [bestlerfiorito378@gmail.com](mailto:bestlerfiorito378@gmail.com)
 
 ## 💻 Tech Stack:
 
